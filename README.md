@@ -1,2 +1,2 @@
 #Titolo
-##Sottotitolo
+Sottotitolo
